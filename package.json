@@ -1,0 +1,20 @@
+{
+  "fitbit": {
+    "appType": "clockface",
+    "appDisplayName": "SDK Moment",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "SDK Moment"
+      }
+    }
+  }
+}
